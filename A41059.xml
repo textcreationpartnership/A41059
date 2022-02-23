@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A paper concerning such as are made ministers by the will of man</title>
+            <author>Fox, Margaret Askew Fell, 1614-1702.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41059</idno>
+            <idno type="STC">Wing F634A</idno>
+            <idno type="STC">ESTC R27978</idno>
+            <idno type="EEBO-CITATION">10285674</idno>
+            <idno type="OCLC">ocm 10285674</idno>
+            <idno type="VID">44830</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41059)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44830)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1383:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A paper concerning such as are made ministers by the will of man</title>
+                  <author>Fox, Margaret Askew Fell, 1614-1702.</author>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for M.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to Margaret Fell.</note>
+                  <note>Consists of three sections, the first signed M.F., and the second and third signed G.F.</note>
+                  <note>Item lacks t.p., title information supplied from first line of text.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:44830:1"/>
+            <pb n="1" facs="tcp:44830:1"/>
+            <head>A Paper concerning ſuch as are made Miniſters by the will of man, and an exhortation to all ſober minded people to come out from among them.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>What miniſtery is that which is upheld by a Law given forth in mans will con<g ref="char:EOLhyphen"/>trary to the Law of God, if it be not Antichriſtian? and whether or no their Miniſtery was from God that haled out of the Synogoues, or thoſe that were haled? And whether <hi>Paul</hi>'s Miniſtery was not according to what you now perſe<g ref="char:EOLhyphen"/>cute, who went into the Synagogues to reaſon with them, after the ſame man<g ref="char:EOLhyphen"/>ner as wee doe novv, vvho received not his Miniſtery from man, neither had it by man, though he was brought up at the feet of <hi>Gamaliell,</hi> he counted that which he learned there, as dung and droſſe, in compariſon of the excellency of Jeſus Chriſt; and now with the Same light, your form of prayer, and form off preaching without the power, it is as droſſe and dung to me, and to all that live in the life, who know Chriſt to be the high Prieſt over the houſhold of God, whoſe Government is on his ſhoulders, who will not acquit the wicked, neither ſhall the evill doer eſcape his hand; for the hand of the Lord is ſtreched out, and by the bareing of his arme are we Saved from all our trangreſſions, which by no other means could be done; for when I wallowing in my blood, and no eye pittied me, nor none could cure my diſeaſe, when I went through the vale of miſery, in the cloudy and dark day, when no light appeared, then was I fol<g ref="char:EOLhyphen"/>lowing men, but darkneſs was over the whole earth in me, which was my great ſorrow but ſometimes hope was an anchor, that it ſhould not be alwaies ſo, but when the flood came I was as one overwhelmed with ſorrow, for all my actings, and my prayers returned in vain; while I was acting for life, the living ſuffer<g ref="char:EOLhyphen"/>ed in me, which groaned for deliverance, and the groans of that was heard, and not my prayers, then the Son of Righteouſneſs appeared to me, with healing under his wings, then he rent the vail, and uncovered all that I had done, and ſhewed me the book wherein all my actions were ſet down, that I had acted a<g ref="char:EOLhyphen"/>gainſt him ever ſince I was a childe, and indeed I could read in it, and knew what was written there, then was the acceptable yeer of the Lord God, and the day of vengeance to the ungodly in me, then was the vials of the wrath of God powred forth upon me without mixture, and indeed it was given me to drink deep<g ref="char:EOLhyphen"/>ly but I deſired that I might be ſpared, but it was to let me ſee that I had Sinned againſt God, and I ſhould bear his indignation, untill he did plead my cauſe, for I was condemned, but the Blood of the Son of God ranſomed me and brought me into freedom, which by no other meanes could be done; then he ſhewed me his doctrine, and writ his Law in me, and placed his word in my heart, which is an everlaſting witneſs for himſelf, and againſt all the world, that their deeds are evil, who by his power hath ſhaken, and cauſed all my bones to trem<g ref="char:EOLhyphen"/>ble, and to ſtagger like a drunken man, but the remainder of himſelf could not be Shaken, for he was ſtricken, and by his ſtripes were we healed, and by his light we ſee all hirelings, and perſecutors to be out of his doctrine; therefore we de<g ref="char:EOLhyphen"/>ny them; So all people who fear God come out from among them (leaſt you be partakers of their plagues) as I have done.</p>
+                  <closer>
+                     <signed>M. F.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>The difference between the worlds relation which ſtands in ſtrife, malice and wickedneſſe, and the Saints relation which ſtands in love, life, peace and joy in the Holy ghoſt<lb/> The Relation which ſtands in deſtroying, is by the children of the light denied, all ſuch who live out of light, and out of it walke, who wear the old garment, whoſe minde is corrupt, and hath a wiſdome; and with it know not God, and
+<pb n="2" facs="tcp:44830:2"/>hath a knovvledge &amp; with it corrupt themſelves, &amp; hath a humility, but feigned, and hath a worſhip but in the will, and hath a righteouſneſſe but in the ſelf; and ſpeaks the high words but it is in hipocriſie, and hath a liberty but in the fleſh, whore the ſpirit is in priſon, who in <hi>Caines</hi> way is gone, and hath not a habitation in God, whoſe affections are below in the earth, and ſerve the luſts and the plea<g ref="char:EOLhyphen"/>ſures, whoſe converſation is among the wicked, and there is the worlds relation where lodgeth the ſtrife and the debate and deceit, and diſdain, and ſetting up that which God will throw down, now vvhile this is ſtanding which is contrary to the light, they that in the light do vvalke, and be in it, theſe they deny, and Sees that vvhich leads nature our of its courſe, and vvhat ſets the vvhole courſe of nature on fire, and there the vvhole vvorld are in confuſion, and all the tongues are unbridled, vvhere povver over them is not, vvhile that reignes vvhich leads nature out of courſe, his religion is vain, and that re<g ref="char:EOLhyphen"/>lation ſtands out of truth, but all ſuch as to the light are turned, See vvith the light (and that doth manifeſt vvhat leadeth nature out of courſe,) the mariage that is honourable, and vvhat ſets the vvhole courſe of nature on fire, and vvhat leads nature into courſe, vvhere the pure relation and the en<g ref="char:EOLhyphen"/>trance of it is received, vvhere the ſelf and its righteouſneſs is denied, and the righteouſneſs of Chriſt received, vvhere the vvorſhip of the vvill is denied, and the vvorſhip of God in Spirit and Truth received, vvhere ſelf righteouſnes is de<g ref="char:EOLhyphen"/>nied, and Chriſt the righteouſneſs of God received, &amp; the former converſation put of &amp; the converſation in Heaven vvitneſſed, the affections belovv changed, &amp; the affections vvhich are above come to; here is the pure Religion knovvn vvith<g ref="char:EOLhyphen"/>out guile, vvhich are out of <hi>Cains</hi> vvay, vvhere the habitation in God is vvit<g ref="char:EOLhyphen"/>neſſed and ſeen, vvhere the juſt lives by his faith, and honouring in the Lord knovvn, and the true humility Learned of Chriſt, vvho is not of the vvorld, though it by him vvas made, vvho lighteth every man that cometh into the vvorld, vvho is mans vvay out of it; vvhich light is mans condemnation if he do not beleeve in it; and the relation vvhich is in the vvorld (vvho hate the light,) is in the luſt, where the perverſenes is in the love of the world, vvhere the envy is, vvhere the invention is, ſelfeiſhneſs, croſſeneſſe, perverſe<g ref="char:EOLhyphen"/>neſs, back-biting, maliciouſnes, filling with unrighteouſneſs, yet they have a love, yet they have a relation, now the light which comes from the beloved Son of God, where the Love of God is received, the worlds relation is denied, for the relation of the world deſtroyes and devoures, but the children of the light, which be in the relation out of the World, live in peace, unity, and fel<g ref="char:EOLhyphen"/>lowſhip, and comfort enjoyed in the holy Ghoſt, ſo all you that profeſſe relation in words, and envy lodgeth in your hearts againſt one another, and yet flat<g ref="char:EOLhyphen"/>ter one another to your faces, and backbite one another, behinde the back, ſuch relations we deny, and have a witneſs in your conſciences againſt it; And all that profeſs a relation one to another, and love and friendſhip with the tongue, and in heart deceive one another, and cozen, and cheat one ano<g ref="char:EOLhyphen"/>ther, and lie, and diſſemble one with another, all ſuch relations we deny, and have a witneſs in your conſcience againſt it: And ſuch as profeſſe religion, or worſhip, or humility, righteouſneſs, and the Scripture, Chriſt and the Pro<g ref="char:EOLhyphen"/>phets words, &amp; live out of their life, and live in envy and malice, and yet pro<g ref="char:EOLhyphen"/>feſſe you have a relation to Chriſt, and God, whom ye have not ſeen, and you love him, and do not love them whom you have ſeen, ſuch relations we do denie; &amp; all ſuch as cry up your experiences, high notions, manifeſtations,
+<pb n="3" facs="tcp:44830:2" rendition="simple:additions"/>as you call them, diſpenſations as you call them, and live in pride, ſtrife, and envy, debates, deriſion, ſcornes, loftineſs, highmindedneſs, you be out of the light and out of the way, in <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, and out of the pure relation, we have a witneſs in your conſcience againſt thoſe things, which lets you ſee what you poſ<g ref="char:EOLhyphen"/>ſeſs, and will let you profeſſe no more if to it you hearken, which turns from the world and the relations therein, for all who beleeve not the light, and are not to it come, have a love, but it is in the world; and a relation, but it is in the world, which is enmity to God, ſo that relation which is enmity is denied with the light, that love which is enmity, is denied with the light, which leads to the pure relation, which envies not, where the deſtroyer, and devourer is rebu<g ref="char:EOLhyphen"/>ked.</p>
+                  <closer>
+                     <signed>G. F.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>THe faith of ſuch no better then the faith of the Phariſees who onely believe of a Chriſt, becauſe the Scriptures declare of him, but the faith of them who dwel in the life and power of God and follow the Lamb whetherſoever he goes, is that faith which overcomes the world. To believe of a Chriſt becauſe the Scrip<g ref="char:EOLhyphen"/>tures declare of him, is to believe as the Phariſees did believe, who were the per<g ref="char:EOLhyphen"/>ſecutors and murderers of the juſt, but to believe in the light, the life that gave forth the Scriptures is ſeen, and Chriſt is believed in, and here he hath the wit<g ref="char:EOLhyphen"/>neſs in himſelf, and comes to be a child of light and born of God, which birth overcomes the world, and now ſaith Chriſt they hate the light becauſe their deeds are evil, and will not bring their deeds to it, becauſe the light will re<g ref="char:EOLhyphen"/>prove them, and this is the condemnation the light ſaith Chriſt; and now it doth appear them that hate the light, prieſts, teachers, people, young and old hate the light, and will not bring their deeds to the light, becauſe the light vvill reprove them, neither vvill they ſuffer others that vvalke in the light, and love the light, and bring their deeds to the Light and ſhew their deeds with the light, and reprove them with the light, becauſe they hate the light, and them that walk in it, and caſt them into Priſon, and ſo are ſtumbling at the light. All ſorts of people, (mark) it is the light that they hate, ſaith Chriſt, they hate the light which reproves their evil deeds, and this light is that which the world and the teachers thereof cannot endure to be talked off, but hate it and them that walk in it, &amp; it is the light that is ſo much ſtumbled at, ſo becauſe their deeds are evil, and they walk in darkneſs, there is a proof, for they that walk in the light ſtumble not, but come to receive the light of life, here Chriſts words <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s fulfilled amongſt them that hate the light, and will not bring their deeds to the light, becauſe the light will reprove them, for that which doth make manifeſt is light, ſo that which makes manifeſt they cannot endure, but would be in the dark, and keep their deeds in the dark as it is manifeſt, and ſaith Chriſt the Divel ſhall caſt ſome of you into priſon, he is out of the light out of the truth, and a lyar, and a murtherer from the beginning, which now is ſeen with the light, and trampled upon, and all that owne not the light which cometh from the word, are the wicked ſeeds men, ſowing abroad their tares, their lies, the evil reports, and them that are gone from the light, that comes from the word of truth, are gi<g ref="char:EOLhyphen"/>ven up to believe lies and reports, and may cry up darkneſs, if you hate the light what have you to cry up elſe, if you turn from the light, pittyful preach<g ref="char:EOLhyphen"/>ing, which hates the light, which manifeſteth all the vvorks of darkneſs.</p>
+                  <closer>
+                     <signed>G. F.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed in the 4th. month 8th. day for <hi>M. W.</hi> 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
